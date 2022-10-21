@@ -1,16 +1,16 @@
 {
-"name": "777betthai",
-"theme": "777betthai",
-"version": "8.7.8",
-"description": "777betthai ทางเข้าหลักเว็บบาคาร่าเว็บตรง ไม่มีขั้นต่ำ รับเงินเครดิตฟรี",
-"keywords": [
-"777betthai",
-"777betthai เครดิตฟรี",
-"777betthai ทางเข้า"
-],
-"repository": "https://github.com/miloovaltin/777betthai",
-"license": "MIT",
-"engines": {
-"atom": ">=1.0.0 <2.0.0"
-}
+  "name": "777betthai",
+  "theme": "777betthai",
+  "version": "8.8.0",
+  "description": "777betthai ทางเข้าหลักเว็บบาคาร่าเว็บตรง ไม่มีขั้นต่ำ รับเงินเครดิตฟรี",
+  "keywords": [
+    "777betthai",
+    "777betthai เครดิตฟรี",
+    "777betthai ทางเข้า"
+  ],
+  "repository": "https://github.com/miloovaltin/777betthai",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
 }
